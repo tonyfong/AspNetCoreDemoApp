@@ -22,7 +22,7 @@ namespace AspNetCoreDemoApp.Controllers
 		[HttpGet("{id}")]
 		public string Get(int id)
 		{
-			return "value";
+			return "tonyf value";
 		}
 	}
 }
